@@ -1,4 +1,4 @@
-### Ola!👋 Eu sou Pablo Matos Lima
+ ## Ola!👋 Eu sou Pablo Matos Lima
 
 
 - 🎓 Estudante de Ciências da Computação 
@@ -11,3 +11,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&locale=pt-br&theme=tokyonight&card_width-10&layout=compact)](https://github.com/pablomtlima/github-readme-stats"/)>
 </div>
   
+  
+</div> 
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+ ##
+ 
+ <div> 
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pablomtlima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pablo-matos-lima-953312163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/pablo_matoslima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
