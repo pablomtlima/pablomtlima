@@ -13,7 +13,7 @@
   
   
 </div> 
-<div style="display: inline_block"><br>
+<div align="center" valign="top" tyle="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
@@ -25,6 +25,6 @@
   <a href="https://www.linkedin.com/in/pablo-matos-lima-953312163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/pablo_matoslima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/pablomtlima/pablomtlima/blob/output/github-contribution-grid-snake.svg)
   
 </div>
