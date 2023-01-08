@@ -1,6 +1,6 @@
  ## Olá!👋 Eu sou Pablo Matos Lima
 
-🚀 Sobre mim
+<h3>🚀 Sobre mim</h3>
 <p>   Sou formado como técnico eletrônico apaixonado por tecnologia. </p>
 Estudante de bacharel em Ciências da Computação 🎓
 
