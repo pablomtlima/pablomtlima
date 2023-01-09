@@ -1,5 +1,7 @@
  ## Olá!👋 Eu sou Pablo Matos Lima
 
+![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
+
 <h3>🚀 Sobre mim</h3>
 <p>   Sou formado como técnico eletrônico apaixonado por tecnologia. </p>
 Estudante de bacharel em Ciências da Computação 🎓
