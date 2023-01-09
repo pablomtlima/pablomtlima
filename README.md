@@ -36,4 +36,5 @@ Estudante de bacharel em Ciências da Computação 🎓
 <a href="https://www.instagram.com/pablo_matoslima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=78696750)
 
