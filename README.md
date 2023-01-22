@@ -3,9 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
 
 <h3>🚀 Sobre mim</h3>
-<p>   Sou formado como técnico eletrônico apaixonado por tecnologia. </p>
-Estudante de bacharel em Ciências da Computação 🎓
-
+<p>Atualmente, não estou trabalhando na área de programação. Estou cursando Ciências da computação e sou formado como técnico eletrônico. Adoro tudo que envolve tecnologia. Quando decidi estudar eletrônica, minha ideia era entender como as máquinas funcionam, como são programadas e um dia poder programá-las. 
+</p>
+<p>No primeiro ano de curso, comecei a fazer estágio na área e um ano depois fui contratado. Estou há 4 anos nessa área, mas praticamente sem programação, então sinto a necessidade de me aprofundar mais. Por isso, comecei o curso de Ciências da Computação 🎓, onde estou me encontrando ainda mais. Sempre gostei de programação, mas nunca tinha feito nenhum curso, somente com vídeos no YouTube eu criava sites em HTML no localhost com 13 ou 14 anos. Sinto que, por falta de conhecimento de que isso realmente era uma profissão, não direcionei minha carreira completamente para isso. 
+<p>Mas, enfim, essa é uma breve história de como cheguei aqui. Se quiser saber mais, entre em contato comigo. Minhas redes estão disponíveis por algum lugar por aqui.
+</p>
 
 <h3>Tecnologias que eu estou estudando:
 
