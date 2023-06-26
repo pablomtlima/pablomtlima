@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
 
-<h3>💻 Sobre mim</h3>
+### 💻 Sobre mim
 
 Olá! Sou um entusiasta da tecnologia com formação em eletrônica e uma paixão pela programação. Atualmente, estou cursando Ciências da Computação para aprimorar minhas habilidades e conhecimentos nessa área.
 
@@ -13,10 +13,9 @@ Sou um aprendiz dedicado e estou sempre em busca de desafios técnicos. Gosto de
 Se você quiser saber mais sobre mim ou fazer convite para projetos interessantes, fique à vontade para entrar em contato. Minhas informações de contato estão disponíveis aqui. Estou animado com as possibilidades e ansioso para conectar com profissionais talentosos e apaixonados como você!
 
 </p>
+### Tecnologias :
 
-<h3>Tecnologias :
-
-<div>
+<div align="center">
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -28,10 +27,9 @@ Se você quiser saber mais sobre mim ou fazer convite para projetos interessante
 <br>
 <br>
 </div>
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&locale=pt-br&theme=tokyonight&card_width=10&layout=compact)](https://github.com/pablomtlima/github-readme-stats"/)>
 
- #
+### Contato :
+
 <div align="center"> 
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:pablomtlima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
