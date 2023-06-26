@@ -2,11 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
 
-<h3>🚀 Sobre mim</h3>
-<p>Atualmente, não estou trabalhando na área de programação. Estou cursando Ciências da computação e sou formado como técnico eletrônico. Adoro tudo que envolve tecnologia. Quando decidi estudar eletrônica, minha ideia era entender como as máquinas funcionam, como são programadas e um dia poder programá-las. 
-</p>
-<p>No primeiro ano de curso, comecei a fazer estágio na área e um ano depois fui contratado. Estou há 4 anos nessa área, mas praticamente sem programação, então sinto a necessidade de me aprofundar mais. Por isso, comecei o curso de Ciências da Computação 🎓, onde estou me encontrando ainda mais. Sempre gostei de programação, mas nunca tinha feito nenhum curso, somente com vídeos no YouTube eu criava sites em HTML no localhost com 13 ou 14 anos. Sinto que, por falta de conhecimento de que isso realmente era uma profissão, não direcionei minha carreira completamente para isso. 
-<p>Mas, enfim, essa é uma breve história de como cheguei aqui. Se quiser saber mais, entre em contato comigo. Minhas redes estão disponíveis por algum lugar por aqui.
+<h3>💻 Sobre mim</h3>
+
+Olá! Sou um entusiasta da tecnologia com formação em eletrônica e uma paixão pela programação. Atualmente, estou cursando Ciências da Computação para aprimorar minhas habilidades e conhecimentos nessa área.
+
+Tenho uma experiência de 4 anos na indústria eletrônica, mas sinto que minha verdadeira vocação é a programação. Decidi fazer o curso de Ciências da Computação para me aprofundar nesse campo fascinante. Desde jovem, sempre fui autodidata e criei sites em HTML assistindo vídeos online. Agora estou direcionando minha carreira totalmente para a programação, seguindo meu amor pela tecnologia.
+
+Sou um aprendiz dedicado e estou sempre em busca de desafios técnicos. Gosto de encontrar soluções inovadoras para problemas complexos. Estou constantemente atualizado com as últimas tendências e tecnologias do setor, investindo tempo e esforço nesse aprendizado contínuo.
+
+Se você quiser saber mais sobre mim ou fazer convite para projetos interessantes, fique à vontade para entrar em contato. Minhas informações de contato estão disponíveis aqui. Estou animado com as possibilidades e ansioso para conectar com profissionais talentosos e apaixonados como você!
+
 </p>
 
 <h3>Tecnologias :
@@ -27,13 +32,7 @@
 <a href="https://github.com/pablomtlima">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablomtlima&locale=pt-br&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&locale=pt-br&theme=tokyonight&card_width=10&layout=compact)](https://github.com/pablomtlima/github-readme-stats"/)>
-</div>
-  
-<div align="center" valign="top" tyle="display: inline_block"><br>
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-          
-</div>
+
 
  #
 <div align="center"> 
