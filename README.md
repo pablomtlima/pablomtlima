@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-### Sobre mim
+### Sobre mim ☕
 
    Sou um entusiasta da tecnologia com formação em eletrônica e uma paixão pela programação. Atualmente, estou cursando Ciências da Computação 💻 para aprimorar minhas habilidades e conhecimentos nessa área.
 
