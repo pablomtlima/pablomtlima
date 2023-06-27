@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-Olá! Sou um entusiasta da tecnologia com formação em eletrônica e uma paixão pela programação. Atualmente, estou cursando Ciências da Computação 💻 para aprimorar minhas habilidades e conhecimentos nessa área.
+   Sou um entusiasta da tecnologia com formação em eletrônica e uma paixão pela programação. Atualmente, estou cursando Ciências da Computação 💻 para aprimorar minhas habilidades e conhecimentos nessa área.
 
 Tenho uma experiência de 4 anos na indústria eletrônica, mas sinto que minha verdadeira vocação é a programação. Decidi fazer o curso de Ciências da Computação para me aprofundar nesse campo fascinante. Desde jovem, sempre fui autodidata e criei sites em HTML assistindo vídeos online. Agora estou direcionando minha carreira totalmente para a programação, seguindo meu amor pela tecnologia.
 
