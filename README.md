@@ -13,6 +13,7 @@ Sou um aprendiz dedicado e estou sempre em busca de desafios técnicos. Gosto de
 Se você quiser saber mais sobre mim ou fazer convite para projetos interessantes, fique à vontade para entrar em contato. Minhas informações de contato estão disponíveis aqui. Estou animado com as possibilidades e ansioso para conectar com profissionais talentosos e apaixonados como você!
 
 </p>
+
 ### Tecnologias :
 
 <div align="center">
