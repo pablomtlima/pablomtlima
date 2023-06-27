@@ -1,7 +1,7 @@
  ## Olá!👋 Eu sou Pablo Matos Lima
 
 ![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
-<img src="https://img.shields.io/website-up-down-green-red/http/pablolima.com.br.svg">
+<a href="https://pablolima.com.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/pablolima.com.br.svg"></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
