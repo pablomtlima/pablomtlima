@@ -1,6 +1,10 @@
  ## Olá!👋 Eu sou Pablo Matos Lima
 
 ![](https://komarev.com/ghpvc/?username=pablomtlima-github-username&color=blue&style=plastic)
+<img src="https://img.shields.io/website-up-down-green-red/http/pablolima.com.br.svg">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ### Sobre mim
 
@@ -37,7 +41,15 @@ Se você quiser saber mais sobre mim ou fazer convite para projetos interessante
 <a href="https://www.linkedin.com/in/pablo-matos-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5561998246789?text=Ol%C3%A1+vi+seu+perfil+no+GitHub%21"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://t.me/pablomtlima"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
+</div>
+ 
+### Sistemas :
+<div align="center">
+<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 
+<br>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=78696750)
