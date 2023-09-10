@@ -7,6 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&layout=compact&theme=midnight-purple )
 
 ### Sobre mim ☕
 
