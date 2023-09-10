@@ -7,7 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&layout=compact&theme=midnight-purple )
 
 ### Sobre mim ☕
 
@@ -35,6 +34,9 @@ Se você quiser saber mais sobre mim ou fazer convite para projetos interessante
 
 <div align="center">
 <br>
+ 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomtlima&layout=compact&theme=midnight-purple)
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
